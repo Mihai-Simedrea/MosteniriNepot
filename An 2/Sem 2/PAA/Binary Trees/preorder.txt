@@ -1,0 +1,11 @@
+insert_in_tree(&root, create_tree_node(5));
+insert_in_tree(&root, create_tree_node(2));
+insert_in_tree(&root, create_tree_node(3));
+insert_in_tree(&root, create_tree_node(7));
+insert_in_tree(&root, create_tree_node(10));
+insert_in_tree(&root, create_tree_node(9));
+insert_in_tree(&root, create_tree_node(11));
+insert_in_tree(&root, create_tree_node(6));
+
+
+preorder: 5 2 3 7 6 10 9 11
